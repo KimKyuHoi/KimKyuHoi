@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=KimKyuHoi(Quvid)&fontSize=90" />
 
 ## 안녕하세요! 프론트엔드 개발자를 목표로 하고 있는 김규회입니다.
+[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
   
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
+## 🔧 Tech Stack 🔧 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyuHoi&langs_count=4&layout=compact&theme=white)](https://KimKyuHoi.github.io/)
 
 ## ✉️ Contact ✉️
 
