@@ -1,10 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=KimKyuHoi&fontSize=90" />
 
 ## 안녕하세요! 프론트엔드 개발자를 목표로 하고 있는 김규회입니다.
-[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
-  
+* 프론트엔드 개발 위주로 공부 중입니다.
+* 협업을 진행할 때 자주 소통하고 회의하며 개발하는 것을 좋아합니다.
+* 하나의 흥미를 가지면 끊임없이 파고드는 것을 좋아합니다!
+* 사용자 입장을 생각하면 UI/UX 개발을 목표로 하고 있습니다!
+
+## Experience
+* Google Developer Student Community 2기 수료
+* 멋쟁이 사자 11기 진행중
+* K해커톤 본선 진출
+* 대한민국 SW 공공 해커톤 본선 진출
+	
 ## 🔧 Tech Stack 🔧 
+[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyuHoi&langs_count=4&layout=compact&theme=white)](https://KimKyuHoi.github.io/)
+
 
 ## ✉️ Contact ✉️
 <p>Phone Number : 010-4922-7687<br></p>
