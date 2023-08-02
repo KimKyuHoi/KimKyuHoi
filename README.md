@@ -7,6 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyuHoi&langs_count=4&layout=compact&theme=white)](https://KimKyuHoi.github.io/)
 
 ## ✉️ Contact ✉️
+<p>Phone Number : 010-4922-7687<br></p>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimKyuHoi.github.io/)](https://KimKyuHoi.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:k546kh@gmail.com)](mailto:k546kh@gmail.com)
