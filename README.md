@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=KimKyuHoi(Quvid)&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=KimKyuHoi&fontSize=90" />
 
 ## 안녕하세요! 프론트엔드 개발자를 목표로 하고 있는 김규회입니다.
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
