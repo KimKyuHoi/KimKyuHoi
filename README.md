@@ -1,16 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=KimKyuHoi&fontSize=90" />
 
-## 안녕하세요! 프론트엔드 개발자를 목표로 하고 있는 김규회입니다.
+## :raised_hands: 안녕하세요! 프론트엔드 개발자를 목표로 하고 있는 김규회입니다. :raised_hands:
 * 프론트엔드 개발 위주로 공부 중입니다.
 * 협업을 진행할 때 자주 소통하고 회의하며 개발하는 것을 좋아합니다.
 * 하나의 흥미를 가지면 끊임없이 파고드는 것을 좋아합니다!
 * 사용자 입장을 생각하면 UI/UX 개발을 목표로 하고 있습니다!
 
-## Activity
+## :runner: Activity
 * Google Developer Student Community 2기 수료
 * 멋쟁이 사자 11기 진행중
 
-## Experience
+## :computer: Experience
 * K해커톤 본선 진출
 * 대한민국 SW 공공 해커톤 본선 진출
 	
