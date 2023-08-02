@@ -6,9 +6,11 @@
 * 하나의 흥미를 가지면 끊임없이 파고드는 것을 좋아합니다!
 * 사용자 입장을 생각하면 UI/UX 개발을 목표로 하고 있습니다!
 
-## Experience
+## Activity
 * Google Developer Student Community 2기 수료
 * 멋쟁이 사자 11기 진행중
+
+## Experience
 * K해커톤 본선 진출
 * 대한민국 SW 공공 해커톤 본선 진출
 	
