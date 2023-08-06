@@ -7,7 +7,7 @@
 * 사용자 입장이 되어 사용자가 편하게 사용할 수 있도록 생각하면서 UI/UX 개발을 목표로 하고 있습니다!
 
 ## :runner: Activity
-* Google Developer Student Community 2기 수료
+* Google Developer Student Community 2기 수료, 3기 코어멤버(Frontend) 활동중
 * 멋쟁이 사자 11기 진행중
 
 ## :computer: Experience
