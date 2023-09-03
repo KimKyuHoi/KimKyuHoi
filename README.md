@@ -8,7 +8,7 @@
 
 ## :runner: Activity
 * Google Developer Student Community 2기 Member, 3기 Core(Web-Frontend)
-* 멋쟁이 사자 11기 진행중
+* 멋쟁이 사자 11기
 
 ## :computer: Experience
 * K해커톤 본선 진출
