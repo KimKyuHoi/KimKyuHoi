@@ -7,8 +7,10 @@
 * 사용자 입장이 되어 사용자가 편하게 사용할 수 있도록 생각하면서 UI/UX 개발을 목표로 하고 있습니다!
 
 ## :runner: Activity
-* Google Developer Student Community 2기 Member, 3기 Core(Web-Frontend)
-* 멋쟁이 사자 11기
+* Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
+* Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~
+* 멋쟁이 사자 11기 Member / 2023.03 ~
+* 경북대학교 CSE 홍보단 웹마스터 9기 / 2023.09 ~
 
 ## :computer: Experience
 * K해커톤 본선 진출
