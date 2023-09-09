@@ -11,6 +11,7 @@
 * Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~
 * 멋쟁이 사자 11기 Member / 2023.03 ~
 * 경북대학교 CSE 홍보단 웹마스터 9기 / 2023.09 ~
+* 경북대학교 코딩 개발 동아리 "해달" / 2023.09 ~
 
 ## :computer: Experience
 * K해커톤 본선 진출
