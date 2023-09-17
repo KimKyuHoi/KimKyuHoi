@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=KimKyuHoi&fontSize=90" />
 
-## :raised_hands: 안녕하세요! 프론트엔드 개발자를 목표로 하고 있는 김규회입니다. :raised_hands:
-* 프론트엔드 개발 위주로 공부 중입니다.
+## :raised_hands: 안녕하세요! 프론트엔드 개발자 김규회입니다. :raised_hands:
+* 프론트엔드 개발을 위주로 공부 중입니다.
 * 협업을 진행할 때 자주 소통하고 회의하며 개발하는 것을 좋아합니다.
-* 하나의 흥미를 가지면 끊임없이 파고드는 것을 좋아합니다!
-* 사용자 입장이 되어 사용자가 편하게 사용할 수 있도록 생각하면서 UI/UX 개발을 목표로 하고 있습니다!
+* 하나의 흥미를 가지면 끊임없이 파고듭니다!
+* 사용자의 입장에서 생각하여, 사용자가 편리하게 이용할 수 있는 UI/UX를 개발하는 것을 목표로 삼고 있습니다!
 
 ## :runner: Activity
 * Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
