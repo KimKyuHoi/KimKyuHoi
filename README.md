@@ -11,9 +11,9 @@
 * Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
 * Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~
 * 멋쟁이 사자 11기 Member / 2023.03 ~
-* 경북대학교 CSE 홍보단 웹마스터 9기 / 2023.09 ~
 * 경북대학교 코딩 개발 동아리 "해달" / 2023.09 ~
-* 경북대학교 CSE 시스템도서위원회 / 2023.10 ~
+* 경북대학교 CSE 홍보단 웹마스터 9기 / 2023.09 ~
+* 경북대학교 CSE 학생회 시스템도서위원회 / 2023.10 ~
 
 ## :computer: Experience
 * K해커톤 본선 진출
