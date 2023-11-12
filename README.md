@@ -19,6 +19,7 @@
 * K해커톤 본선 진출
 * 대한민국 SW 공공 해커톤 본선 진출
 * 경북대학교 데이터융복합 해커톤 본선 진출
+* ABB 아이디어톤 본선진출
 	
 ## 🔧 Tech Stack 🔧 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
