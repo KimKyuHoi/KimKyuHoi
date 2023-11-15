@@ -8,7 +8,7 @@
 * 사용자의 입장에서 생각하여, 사용자가 편리하게 이용할 수 있는 UI/UX를 개발하는 것을 목표로 삼고 있습니다!
 
 ## :runner: Activity
-* Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
+* Google Developer Student Community 2기 Member / 2022.09 ~ 2023.07
 * Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~
 * 멋쟁이 사자 11기 Member / 2023.03 ~ 2023.11
 * 멋쟁이 사자 12시 운영진 / 2023.11 ~
