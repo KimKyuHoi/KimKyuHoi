@@ -21,6 +21,7 @@
 * 대한민국 SW 공공 해커톤 본선 진출
 * 경북대학교 데이터융복합 해커톤 본선 진출
 * ABB 아이디어톤 본선진출
+* 2023 대구를 빛내는 SW해커톤 우수상
 	
 ## 🔧 Tech Stack 🔧 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
