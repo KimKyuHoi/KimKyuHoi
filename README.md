@@ -23,6 +23,7 @@
 * ABB 아이디어톤 본선진출
 * 2023 대구를 빛내는 SW해커톤 우수상
 * 2023 대경권 공공데이터 경진대회 최우수상
+* 2023 영남권 GDSC(동아대, 부경대, 동의대, 한국해양대, 경북대) 연합 아이디어톤 개최 및 TF 참여
 	
 ## 🔧 Tech Stack 🔧 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
