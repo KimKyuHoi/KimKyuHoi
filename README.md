@@ -9,12 +9,13 @@
 
 ## :runner: Activity
 * Google Developer Student Community 2기 Member / 2022.09 ~ 2023.07
-* Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~
+* Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~ ing.
 * 멋쟁이 사자 11기 Member / 2023.03 ~ 2023.11
-* 멋쟁이 사자 12시 운영진 / 2023.11 ~
-* 경북대학교 코딩 개발 동아리 "해달" / 2023.09 ~
-* 경북대학교 CSE 홍보단 웹마스터 9기 / 2023.09 ~
+* 멋쟁이 사자 12시 운영진 / 2023.11 ~ ing.
+* 경북대학교 코딩 개발 동아리 "해달" / 2023.09 ~ ing.
+* 경북대학교 CSE 홍보단 웹마스터 9기 / 2023.09 ~ 2024.02
 * 경북대학교 CSE 학생회 시스템도서위원회 / 2023.10 ~ 2023.12
+* SmileGate 서버 개발캠프(온라인) / 2024.01 ~ 2024.02
 
 ## :computer: Experience
 * K해커톤 본선 진출
