@@ -29,7 +29,6 @@
 	
 ## 🔧 Tech Stack 🔧 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyuHoi&langs_count=4&layout=compact&theme=white)](https://KimKyuHoi.github.io/)
 
 
 ## ✉️ Contact ✉️
