@@ -41,9 +41,11 @@
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Zustand-999999?style=for-the-badge&logo=&logoColor=">
+	<img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 </p>
 <p>
-	<img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+	<img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </p>
 
 ### 🔧 What I Can use Tech Stack!
@@ -75,6 +77,11 @@
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+</p>
+<p>
+	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+	<img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+	<img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </p>
 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
