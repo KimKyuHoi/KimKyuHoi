@@ -85,7 +85,7 @@
 </p>
 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=KimKyuHoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## :runner: Activity
