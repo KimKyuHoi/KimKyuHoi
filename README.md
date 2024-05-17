@@ -34,7 +34,6 @@
 </p>
 <p>
 	<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
-	<img src="https://img.shields.io/badge/yarn_berry-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=&logoColor="/>
