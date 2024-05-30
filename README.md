@@ -21,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=GDSC_Official_FE)](https://github.com/KimKyuHoi/GDSC_Official_FE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=LikelionUniv_Frontend_University)](https://github.com/KimKyuHoi/LikelionUniv_Frontend_University)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=TadakTadak)](https://github.com/KimKyuHoi/TadakTadak)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=Matcher_FE)](https://github.com/KimKyuHoi/Matcher_FE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=1day1baek)](https://github.com/KimKyuHoi/1day1baek)
 
 ## 🔧 Tech Stack 🔧 
 ### 🔧 My Favorite Tech Stack!
