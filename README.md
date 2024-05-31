@@ -42,6 +42,7 @@
 	<img src="https://img.shields.io/badge/Zustand-999999?style=for-the-badge&logo=&logoColor=">
 	<img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 	<img src="https://img.shields.io/badge/React_Hook_Form-DB7093?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
@@ -84,6 +85,7 @@
 </p>
 <p>
 	<img src="https://img.shields.io/badge/React_Hook_Form-DB7093?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
