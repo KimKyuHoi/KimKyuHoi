@@ -41,6 +41,11 @@
 <p>
 	<img src="https://img.shields.io/badge/Zustand-999999?style=for-the-badge&logo=&logoColor=">
 	<img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+	<img src="https://img.shields.io/badge/React_Hook_Form-DB7093?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+</p>
+<p>
+	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Mock_Service_Worker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white"/>
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
@@ -76,6 +81,13 @@
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Tanstack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+</p>
+<p>
+	<img src="https://img.shields.io/badge/React_Hook_Form-DB7093?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+</p>
+<p>
+	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Mock_Service_Worker-FF6A33?style=for-the-badge&logo=mockserviceworker&logoColor=white"/>
 </p>
 <p>
 	<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
