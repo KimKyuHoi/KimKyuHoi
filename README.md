@@ -23,6 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=TadakTadak)](https://github.com/KimKyuHoi/TadakTadak)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=1day1baek)](https://github.com/KimKyuHoi/1day1baek)
 
+---
 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=KimKyuHoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
