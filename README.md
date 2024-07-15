@@ -17,21 +17,14 @@
 
 ---
 
-## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=GDSC_Official_FE)](https://github.com/KimKyuHoi/GDSC_Official_FE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=LikelionUniv_Frontend_University)](https://github.com/KimKyuHoi/LikelionUniv_Frontend_University)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=TadakTadak)](https://github.com/KimKyuHoi/TadakTadak)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimKyuHoi&repo=1day1baek)](https://github.com/KimKyuHoi/1day1baek)
-
----
-
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=KimKyuHoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## :runner: Activity
 * Google Developer Student Community 2기 Member / 2022.09 ~ 2023.07
-* Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~ ing.
+* Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~ 2024.07.
+* Google Developer Student Community 4기 Lead(Web-Frontend) / 2024.08 ~ ing/
 * 멋쟁이 사자 11기 Member / 2023.03 ~ 2023.11
 * 멋쟁이 사자 12시 운영진 / 2023.11 ~ ing.
 * 경북대학교 코딩 개발 동아리 "해달" 준회원, 정회원 / 2023.09 ~ ing.
