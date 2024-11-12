@@ -24,9 +24,8 @@
 ## :runner: Activity
 * Google Developer Student Community 2기 Member / 2022.09 ~ 2023.07
 * Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~ 2024.07.
-* Google Developer Student Community 4기 Lead(Web-Frontend) / 2024.08 ~ ing/
-* 멋쟁이 사자 11기 Member / 2023.03 ~ 2023.11
-* 멋쟁이 사자 12시 운영진 / 2023.11 ~ ing.
+* GDG on Campus KNU 4기 Organizer / 2024.08 ~ ing/
+* 멋쟁이 사자 11기 Member, 12기 운영진 / 2023.03 ~ 2024.11
 * 경북대학교 코딩 개발 동아리 "해달" 준회원, 정회원 / 2023.09 ~ ing.
 * 경북대학교 CSE 홍보단 웹마스터 9기,10기 / 2023.09 ~ ing.
 * 경북대학교 CSE 학생회 시스템도서위원회 / 2023.10 ~ 2023.12
