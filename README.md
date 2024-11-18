@@ -13,7 +13,6 @@
 - 항상 새로운 도전을 환영하며, 팀과 함께 성장하고 혁신을 이뤄내는 개발자가 되겠습니다.
   
 ### ✉️ Contact ✉️
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimKyuHoi.github.io/)](https://KimKyuHoi.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:k546kh@gmail.com)](mailto:k546kh@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-444444?style=flat-square&logo=Velog&logoColor=black"&link=https://velog.io/@k_gu_wae123)](https://velog.io/@k_gu_wae123)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=black"&link=https://www.instagram.com/k.gu_wae/)](https://www.instagram.com/k.gu_wae/)
