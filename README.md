@@ -24,14 +24,15 @@
 ## :runner: Activity
 * Google Developer Student Community 2기 Member / 2022.09 ~ 2023.07
 * Google Developer Student Community 3기 Core(Web-Frontend) / 2023.09 ~ 2024.07.
-* GDG on Campus KNU 4기 Organizer / 2024.08 ~ ing/
+* GDG on Campus KNU 4기 Organizer / 2024.08 ~ ing.
 * 멋쟁이 사자 11기 Member, 12기 운영진 / 2023.03 ~ 2024.11
 * 경북대학교 코딩 개발 동아리 "해달" 준회원, 정회원 / 2023.09 ~ ing.
 * 경북대학교 CSE 홍보단 웹마스터 9기,10기 / 2023.09 ~ ing.
 * 경북대학교 CSE 학생회 시스템도서위원회 / 2023.10 ~ 2023.12
 * SmileGate 서버 개발캠프(온라인) / 2024.01 ~ 2024.02
 * 멋쟁이사자 유니브 개발 TF 2기 / 2024.03 ~ ing.
-* 카카오 테크 캠퍼스 2기(경북대) / 2024.04 ~ ing.
+* 카카오 테크 캠퍼스 2기(경북대) / 2024.04 ~ 2024.11
+* OSSCA 오픈소스 컨트리뷰션 커뮤니티 챌린지, 마스터즈 수료 / 2024.07 ~ 2024.11
 
 ## :computer: Experience
 * K해커톤 본선 진출
@@ -42,4 +43,6 @@
 * 2023 대경권 공공데이터 경진대회 최우수상
 * 2023 영남권 GDSC(동아대, 부경대, 동의대, 한국해양대, 경북대) 연합 아이디어톤 개최 및 TF 참여
 * 2024 경북대 연합 동아리 해커톤 기획 및 개최 (GDSC, 해달, 멋쟁이사자, GnB, 앱동, Get IT)
+* OSSCA 오픈소스 컨트리뷰션 커뮤니티 특별상 수상
 * Yorkie 오픈소스 컨트리뷰터
+* 2024 Vision Challenge Hackathon(GDGoC KNU x Google Cloud x 경북대학교 소프트웨어교육원) Organizer 
