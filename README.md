@@ -17,11 +17,6 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-444444?style=flat-square&logo=Velog&logoColor=black"&link=https://velog.io/@k_gu_wae123)](https://velog.io/@k_gu_wae123)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=black"&link=https://www.instagram.com/k.gu_wae/)](https://www.instagram.com/k.gu_wae/)
 
----
-
-[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok 님의 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=KimKyuHoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## :runner: Activity
 * Google Developer Student Community 2기 Member / 2022.09 ~ 2023.07
@@ -44,3 +39,7 @@
 * OSSCA 오픈소스 컨트리뷰션 커뮤니티 특별상 수상
 * Yorkie 오픈소스 컨트리뷰터
 * 2024 Vision Challenge Hackathon(GDGoC KNU x Google Cloud x 경북대학교 소프트웨어교육원) Founder
+
+---
+
+[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
