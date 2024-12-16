@@ -39,7 +39,8 @@
 * OSSCA 오픈소스 컨트리뷰션 커뮤니티 특별상 수상
 * Yorkie 오픈소스 컨트리뷰터
 * 2024 Vision Challenge Hackathon(GDGoC KNU x Google Cloud x 경북대학교 소프트웨어교육원) Founder
-
+* 2024 경북대 오픈소스 SW 포트폴리오 경진대회 최우수상
+* 2025 백야 Hackathon (GDGoC KR 20개 대학 참여) 기획 파트장
 ---
 
 [![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
