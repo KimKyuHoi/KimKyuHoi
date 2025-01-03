@@ -1,6 +1,7 @@
 <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimKyuHoi&count_bg=%23020715&title_bg=%23020715&icon=openstreetmap.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kimkyuhoi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
   </div>
   
 ## :raised_hands: 안녕하세요! 프론트엔드 개발자 김규회입니다. :raised_hands:
