@@ -20,6 +20,7 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-444444?style=flat-square&logo=Velog&logoColor=black"&link=https://velog.io/@k_gu_wae123)](https://velog.io/@k_gu_wae123)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-1477D1?style=flat-square&logo=Linkedin&logoColor="&link=https://www.linkedin.com/in/%EA%B7%9C%ED%9A%8C-%EA%B9%80-2ba0a5254/)](https://www.linkedin.com/in/%EA%B7%9C%ED%9A%8C-%EA%B9%80-2ba0a5254/)
 
+[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :runner: Activity
 * GDSC 2기 Member, 3기 Core(Web-Frontend) / 2022.09 ~ 2024.07
@@ -43,4 +44,3 @@
 * 2025 백야 Hackathon (GDGoC KR 20개 대학 참여) 기획 파트장 
 ---
 
-[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
