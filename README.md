@@ -29,7 +29,7 @@
 |---------|---------------|
 | **2023** | - 대구를 빛내는 SW해커톤 우수상<br>- 대경권 공공데이터 경진대회 최우수상<br>- 영남권 GDSC 연합 아이디어톤 개최 및 TF 참여 |
 | **2024** | - 경북대 연합 동아리 해커톤 기획 및 개최 (GDSC, 해달, 멋쟁이사자, GnB, 앱동, Get IT)<br>- OSSCA 오픈소스 컨트리뷰션 커뮤니티 특별상 수상<br>- Vision Challenge Hackathon Founder (GDGoC KNU x Google Cloud x 경북대 소프트웨어교육원)<br>- 경북대 오픈소스 SW 포트폴리오 경진대회 최우수상 |
-| **2025** | - 백야 Hackathon 기획 파트장 (GDGoC KR 20개 대학 참여) [요즘 IT 인터뷰](https://yozm.wishket.com/magazine/detail/2974/) |
+| **2025** | - 백야 Hackathon 기획 파트장 (GDGoC KR 20개 대학 참여) [요즘 IT 인터뷰](https://yozm.wishket.com/magazine/detail/2974/)<br>- 2025 Devfest:CareerTalks 토크콘서트 쇼 총괄 및 진행 담당 |
 
 ---
 
