@@ -4,11 +4,6 @@
 
   </div>
   
-## :raised_hands: 사용자와 비즈니스의 가치를 잇는 커뮤니케이터, 프론트엔드 개발자 김규회입니다. :raised_hands:
-﹟일상의 불편함을 개선하는 개발자 ﹟Yorkie Code Pair 오픈소스 컨트리뷰터
-
-> 저는 '사용자와 비즈니스 가치를 연결하는 개발'을 핵심 가치로 삼고 있습니다. 기술은 단순한 구현을 넘어 실제 문제를 해결하고 가치를 전달하는 수단이라 생각합니다. 이러한 신념을 바탕으로, 성능 최적화와 사용자 경험 개선에 깊은 관심을 두고 있으며, 이를 통해 비즈니스 성과에  긍정적인 영향을 주는 동시에 더 많은 사람들에게 가치 있는 서비스를 제공하는 프론트엔드 개발자로 성장해 나가는 것이 목표입니다.
-  
 ### ✉️ Contact ✉️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:k546kh@gmail.com)](mailto:k546kh@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-444444?style=flat-square&logo=Velog&logoColor=black"&link=https://velog.io/@k_gu_wae123)](https://velog.io/@k_gu_wae123)
