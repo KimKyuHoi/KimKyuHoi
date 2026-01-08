@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-1477D1?style=flat-square&logo=Linkedin&logoColor="&link=https://www.linkedin.com/in/%EA%B7%9C%ED%9A%8C-%EA%B9%80-2ba0a5254/)](https://www.linkedin.com/in/%EA%B7%9C%ED%9A%8C-%EA%B9%80-2ba0a5254/)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat)](https://kimkyuhoi.github.io/blog/posts/) 
 
-[![KimKyuHoi's github stats](https://github-readme-stats.vercel.app/api?username=KimKyuHoi)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Career
 
 - 2026.01 ~ : [The Pinkfong Company](https://www.thepinkfongcompany.com/)
@@ -16,8 +14,6 @@
   - Web Development Team, Sofware Engineer Intern 
 
 ## Activity
-
-### 
 
 ### Community
 
@@ -43,3 +39,10 @@
 - 2024 OSSCA 오픈소스 컨트리뷰션 아카데미 Yorkie팀 특별상 - 2024.12.06
 - 2023 대경권 공공데이터 경진대회 최우수상 - 2023.12.04
 - 2023 대구를 빛내는 SW해커톤 우수상 - 2023.11.22
+
+
+## Education
+
+- 2024.12 ~ 2025.02 : Smilegate 2025 Devcamp
+- 2024.04 ~ 2024.11 : KaKao Tech Campus KNU 2nd
+- 2019.03 ~ 2026.02 : Kyungpook National University, School of Computer Science and Engineering
