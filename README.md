@@ -23,7 +23,7 @@
 
 #### Community
 
-- 2025.01 ~ : 오픈소스 기여모임 10기
+- 2025.01 ~ 2026.02 : 오픈소스 기여모임 10기
 - 2024.07 ~ 2024.11 : OSSCA OpenSource Contribution Yorkie team
 - 2024.03 ~ 2025.02 : LikeLion Univ FE Team
 - 2023.09 ~ 2025.07 : KNU CSE WebMaster Leader
