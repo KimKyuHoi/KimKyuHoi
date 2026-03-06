@@ -36,7 +36,7 @@
 #### Speaker
 
 - **경북대학교 연합 동아리 해커톤 연사 | AI와 함께 성장하기** (2025)
-- **오픈소스 기여모임 10기 | [당신이 오픈소스를 해야하는 101가지 이유](https://speakerdeck.com/kimkyuhoi/dangsini-opeunsoseureul-haeyahaneun-101gaji-iyu)** (2026.02.28)
+- **오픈소스 기여모임 10기 | [당신이 오픈소스를 해야하는 101가지 이유](https://speakerdeck.com/andykim/dangsini-opeunsoseureul-haeyahaneun-101gaji-iyu)** (2026.02.28)
 
 
 
