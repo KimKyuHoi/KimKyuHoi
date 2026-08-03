@@ -10,7 +10,8 @@
     - in-house cafe Service
     - in-house cafe Admin Service
     - Contents Feedback Service
-    - Pinkfong.com B2C Service
+    - Pinkfong.com Official Website
+    - Contents Manage System
     - Design System
 - 2025.08 ~ 2025.12: [The Pinkfong Company(Intern)](https://www.thepinkfongcompany.com/)
   - Web Development Team, Sofware Engineer Intern
