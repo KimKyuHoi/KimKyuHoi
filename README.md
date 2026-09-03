@@ -7,12 +7,13 @@
 
 - 2026.01 ~ : [The Pinkfong Company](https://www.thepinkfongcompany.com/)
   - Web Development Team, Sofware Engineer
-    - in-house cafe Service
-    - in-house cafe Admin Service
-    - Contents Feedback Service
-    - Pinkfong.com Official Website
-    - Contents Manage System
+    - in-house Cafe Service
+    - in-house Cafe Admin Service
+    - in-house Contents Feedback Service
+    - in-house Contents Manage System
+    - in-house Issue Tracking System
     - Design System
+    - [Pinkfong.com Official Website](www.pinkfong.com)
 - 2025.08 ~ 2025.12: [The Pinkfong Company(Intern)](https://www.thepinkfongcompany.com/)
   - Web Development Team, Sofware Engineer Intern
 
@@ -45,6 +46,7 @@
 
 ### Awards
 
+- 2026 ICT 학점연계 프로젝트 인턴십 우수성과전 한국정보산업연합회장상 - 2026. 08. 27
 - 2026 Smilegate MODACTHON 우수상 - 2026.06.28
 - 2024 경북대 오픈소스 SW 포트폴리오 경진대회 최우수상 - 2024.12.13
 - 2024 OSSCA 오픈소스 컨트리뷰션 아카데미 Yorkie팀 특별상 - 2024.12.06
