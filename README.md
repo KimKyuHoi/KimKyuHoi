@@ -14,6 +14,7 @@
     - in-house Issue Tracking System
     - Design System
     - [Pinkfong.com Official Website](www.pinkfong.com)
+    - [Pinkfong Store](https://store.pinkfong.com/)
 - 2025.08 ~ 2025.12: [The Pinkfong Company(Intern)](https://www.thepinkfongcompany.com/)
   - Web Development Team, Sofware Engineer Intern
 
