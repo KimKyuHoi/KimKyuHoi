@@ -10,7 +10,7 @@
     - in-house Cafe Service
     - in-house Cafe Admin Service
     - in-house Contents Feedback Service
-    - in-house Contents Manage System
+    - in-house Video Contents Manage System
     - in-house Issue Tracking System
     - Design System
     - [Pinkfong.com Official Website](www.pinkfong.com)
